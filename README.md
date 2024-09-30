@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Ajab khan</h1>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
@@ -27,12 +27,6 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
-
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
-<br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+
