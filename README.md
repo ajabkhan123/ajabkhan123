@@ -6,6 +6,7 @@
 - 📫 How to reach me:www.ajabkhan0055@gmail.com
 - 😄 My website:comming soon
 - ⚡ Fun fact: I'm comming to teen
+- 👋 Hi, I'm Ajab Khan 🎓 7th semester Computer Science student | 💡 ML & AI Enthusiast ⚡ Exploring Machine Learning, FastAPI, and Kaggle Competitions | Web Developer 
   
 ### Connect with me:
 <div id="badges">
