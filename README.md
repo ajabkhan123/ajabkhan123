@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me:www.ajabkhan0055@gmail.com
+- 😎 Kaggle to reach me: https://www.kaggle.com/ajabkhan21
 - 😄 My website:comming soon
 - ⚡ Fun fact: I'm comming to teen
 - 👋 Hi, I'm Ajab Khan 🎓 7th semester Computer Science student | 💡 ML & AI Enthusiast ⚡ Exploring Machine Learning, FastAPI, and Kaggle Competitions | Web Developer 
