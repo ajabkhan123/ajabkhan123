@@ -18,7 +18,7 @@
 
 ### 👋 Hi, I'm Ajab Khan
 
-🎓 **7th Semester Computer Science Student**
+🎓 **8th Semester Computer Science Student**
 💡 **Web Developer · Flutter Dev · ML & AI Enthusiast**
 ⚡ Exploring **Machine Learning, FastAPI, Kaggle Competitions & Web Development**
 
