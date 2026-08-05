@@ -36,7 +36,7 @@ const ajabKhan = {
   currentWork  : "NLP-based Online Digital Assistant Chatbot",
   learning     : "Advanced Backend Development & LLM Applications",
   askMeAbout   : ["Python", "JavaScript", "React", "Node.js", "Machine Learning", "NLP", "Flutter"],
-  email        : "ajabkhan0055@gmail.com",
+  email        : "www.ajabkhan0055@gmail.com",
   kaggle       : "https://www.kaggle.com/ajabkhan21",
   website      : "Coming Soon 🚀",
   funFact      : "I build AI, full stack & Flutter apps and I'm just getting started!"
